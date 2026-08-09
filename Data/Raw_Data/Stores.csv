@@ -1,0 +1,47 @@
+StoreID,StoreName,Address,City,Region,ManagerID
+1,RetailHub London Store,"Flat 0
+Owen Plaza",London,Greater London,1
+2,RetailHub Manchester Store,956 Iain Loop,Manchester,North West,13
+3,RetailHub Birmingham Store,"Flat 8
+Alexandra Pike",Birmingham,West Midlands,25
+4,RetailHub Leeds Store,622 Hodgson Park,Leeds,Yorkshire and the Humber,37
+5,RetailHub Glasgow Superstore,2 White Hills,Glasgow,Scotland,49
+6,RetailHub Liverpool Store,"Flat 5
+Curtis Stravenue",Liverpool,North West,61
+7,RetailHub Bristol Store,"Studio 93
+Dean Hollow",Bristol,South West,73
+8,RetailHub Sheffield Store,59 Roberts Isle,Sheffield,Yorkshire and the Humber,85
+9,RetailHub Edinburgh Store,"Flat 69i
+Potter Square",Edinburg,Scotland,97
+10,RetailHub Newcastle Superstore,52 Morgan Highway,Newcastel,North East,109
+11,RetailHub Nottingham Store,"Studio 35
+White Turnpike",Nottingham,East Midlands,121
+12,RetailHub Cardiff Store,"Flat 19m
+Jill Trafficway",Cardiff,Wales,133
+13,RetailHub Belfast Store,737 Holden Cliff,Belfast,Northern Ireland,145
+14,RetailHub Leicester Store,"Studio 72O
+Smith Shoals",Leicster,East Midlands,157
+15,RetailHub Southampton Superstore,661 Scott Neck,Southampton,South East,169
+16,RetailHub Brighton Store,"Studio 86
+Rebecca Squares",Brighton,South East,181
+17,RetailHub Oxford Store,3 Thompson Ridge,Oxford,South East,193
+18,RetailHub Cambridge Store,656 Mark Courts,Cambridge,East of England,205
+19,RetailHub York Store,"Flat 88
+Katie Landing",York,Yorkshire and the Humber,217
+20,RetailHub Reading Superstore,"Studio 9
+Leigh Burg",Reading,South East,229
+21,RetailHub London Store,"Flat 4
+Wall Corner",London,Greater London,241
+22,RetailHub Manchester Store,254 Murphy Ford,Manchester,North West,252
+23,RetailHub Birmingham Store,"Flat 71C
+Newton Hills",Birmingham,West Midlands,263
+24,RetailHub Leeds Store,105 Sian Union,Leeds,Yorkshire and the Humber,274
+25,RetailHub Glasgow Superstore,382 Mohamed Points,Glasgow,Scotland,285
+26,RetailHub Liverpool Store,"Studio 3
+Yates Ferry",Liverpool,North West,296
+27,RetailHub Bristol Store,"Studio 0
+Barbara Ramp",Bristol,South West,307
+28,RetailHub Sheffield Store,"Studio 0
+Russell Harbors",Sheffield,Yorkshire and the Humber,318
+29,RetailHub Edinburgh Store,182 Rose Mount,Edinburgh,Scotland,329
+30,RetailHub Newcastle Superstore,78 Anderson Ridge,Newcastle,North East,340

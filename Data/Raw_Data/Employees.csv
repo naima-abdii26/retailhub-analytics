@@ -1,0 +1,358 @@
+EmployeeID,FirstName,LastName,JobTitle,StoreID,HireDate,Salary,Email
+1,Deborah,Fox,Store Manager,1,2020-09-22,48979.78,deborah.fox@retailhub.co.uk
+2,Clare,Richards,Cashier,1,2024-05-17,21584.46,clare.richards@retailhub.co.uk
+3,Diana,Roberts,Sales Associate,1,2025-03-13,22089.8,diana.roberts@retailhub.co.uk
+4,Marie,Cunningham,Inventory Clerk,1,2019-01-19,21585.74,marie.cunningham@retailhub.co.uk
+5,Terence,Smith,Sales Associate,1,2018-12-01,24331.96,terence.smith@retailhub.co.uk
+6,Karen,Faulkner,Sales Associate,1,2022-01-01,22714.68,karen.faulkner@retailhub.co.uk
+7,Samantha,Anderson,Inventory Clerk,1,2022-07-03,21403.05,samantha.anderson@retailhub.co.uk
+8,Mary,Skinner,Assistant Manager,1,2022-12-24,30357.46,mary.skinner@retailhub.co.uk
+9,Annette,Bell,Inventory Clerk,1,2025-04-16,25264.67,annette.bell@retailhub.co.uk
+10,Kyle,Duffy,Cashier,1,2021-11-01,19590.34,kyle.duffy@retailhub.co.uk
+11,Bradley,Birch,Sales Associate,1,2024-08-05,22058.47,bradley.birch@retailhub.co.uk
+12,Jasmine,Collier,Sales Associate,1,2020-10-24,20656.18,jasmine.collier@retailhub.co.uk
+13,John,Jones,Store Manager,2,2019-07-13,47202.31,john.jones@retailhub.co.uk
+14,Jacqueline,Robson,Cashier,2,2021-12-17,21082.33,jacqueline.robson@retailhub.co.uk
+15,Olivia,Hanson,Inventory Clerk,2,2021-11-07,25424.33,olivia.hanson@retailhub.co.uk
+16,Carolyn,Gray,Cashier,2,2021-10-30,23032.39,carolyn.gray@retailhub.co.uk
+17,Jake,Armstrong,Cashier,2,2024-03-27,21298.3,jake.armstrong@retailhub.co.uk
+18,Gerald,Harris,Cashier,2,2020-02-26,21218.21,gerald.harris@retailhub.co.uk
+19,Shannon,Barber,Sales Associate,2,2024-02-12,20026.7,shannon.barber@retailhub.co.uk
+20,Anna,Cox,Sales Associate,2,2024-01-01,21288.78,anna.cox@retailhub.co.uk
+21,Georgina,Lewis,Sales Associate,2,2022-06-27,21670.07,georgina.lewis@retailhub.co.uk
+22,Max,Russell,Cashier,2,2024-06-13,22315.04,max.russell@retailhub.co.uk
+23,Claire,Freeman,Cashier,2,2023-12-06,22684.03,claire.freeman@retailhub.co.uk
+24,Chloe,Kaur,Sales Associate,2,2025-10-02,23464.09,chloe.kaur@retailhub.co.uk
+25,Timothy,Newman,Store Manager,3,2023-02-14,39599.25,timothy.newman@retailhub.co.uk
+26,Louis,Jordan,Cashier,3,2025-10-30,20907.94,louis.jordan@retailhub.co.uk
+27,Barbara,Smith,Cashier,3,,21331.44,barbara.smith@retailhub.co.uk
+28,Nicholas,Williams,Sales Associate,3,2025-10-14,21035.17,nicholas.williams@retailhub.co.uk
+29,Frank,Kelly,Sales Associate,3,2023-10-12,24041.53,frank.kelly@retailhub.co.uk
+30,Charlene,Dodd,Assistant Manager,3,2023-07-27,36404.91,charlene.dodd@retailhub.co.uk
+31,Julia,Rowe,Cashier,3,2022-10-29,23174.73,julia.rowe@retailhub.co.uk
+32,Russell,Bradley,Sales Associate,3,2024-04-23,23541.01,russell.bradley@retailhub.co.uk
+33,Shirley,Dodd,Inventory Clerk,3,2020-03-15,25032.66,shirley.dodd@retailhub.co.uk
+34,Shannon,Thompson,Sales Associate,3,2025-09-01,21879.11,shannon.thompson@retailhub.co.uk
+35,Iain,Harris,Sales Associate,3,2020-02-04,21431.44,iain.harris@retailhub.co.uk
+36,Katherine,Robinson,Sales Associate,3,2023-04-28,20701.69,katherine.robinson@retailhub.co.uk
+37,Neil,Kirk,Store Manager,4,2023-11-17,40336.12,neil.kirk@retailhub.co.uk
+38,Victoria,Bell,Sales Associate,4,2025-10-10,21733.01,victoria.bell@retailhub.co.uk
+39,Abbie,Clarke,Sales Associate,4,2024-10-13,21122.59,abbie.clarke@retailhub.co.uk
+40,Frederick,Lane,Sales Associate,4,2020-07-10,25051.91,frederick.lane@retailhub.co.uk
+41,Louis,Carter,Cashier,4,2023-04-19,21977.64,louis.carter@retailhub.co.uk
+42,Wendy,Sanders,Cashier,4,2022-12-15,22962.09,wendy.sanders@retailhub.co.uk
+43,Teresa,Carroll,Sales Associate,4,2021-07-17,25711.05,teresa.carroll@retailhub.co.uk
+44,Ashleigh,James,Sales Associate,4,2024-01-09,22907.65,ashleigh.james@retailhub.co.uk
+45,Sophie,Lewis,Cashier,4,2020-03-07,20280.51,sophie.lewis@retailhub.co.uk
+46,Laura,Murphy,Inventory Clerk,4,2021-10-28,23303.67,laura.murphy@retailhub.co.uk
+47,Kimberley,Metcalfe,Inventory Clerk,4,2024-01-24,24369.49,kimberley.metcalfe@retailhub.co.uk
+48,Colin,Elliott,Sales Associate,4,2021-08-04,23918.42,colin.elliott@retailhub.co.uk
+49,Rosie,Harrison,Store Manager,5,2024-08-29,48930.36,rosie.harrison@retailhub.co.uk
+50,Eleanor,Simmons,Sales Associate,5,2025-08-01,23393.9,eleanor.simmons@retailhub.co.uk
+51,Phillip,Hughes,Sales Associate,5,2020-07-12,24635.29,phillip.hughes@retailhub.co.uk
+52,Glen,Haynes,Cashier,5,2022-07-12,21481.25,glen.haynes@retailhub.co.uk
+53,Anna,Davis,Sales Associate,5,2024-03-05,23064.84,anna.davis@retailhub.co.uk
+54,Jill,Carter,Sales Associate,5,2018-05-12,23436.28,jill.carter_at_retailhub.co.uk
+55,Kayleigh,Leonard,Cashier,5,2021-08-07,20571.56,kayleigh.leonard@retailhub.co.uk
+56,Harry,Murray,Cashier,5,2019-03-28,21672.42,harry.murray@retailhub.co.uk
+57,Caroline,Savage,Sales Associate,5,2025-07-03,25945.36,caroline.savage@retailhub.co.uk
+58,Reece,Turner,Assistant Manager,5,2025-02-14,34336.35,reece.turner@retailhub.co.uk
+59,Francesca,Atkins,Sales Associate,5,2024-11-06,24540.72,francesca.atkins@retailhub.co.uk
+60,Henry,Green,Sales Associate,5,2020-10-28,24560.02,henry.green@retailhub.co.uk
+61,Jake,Patel,Store Manager,6,2025-01-29,50114.07,jake.patel@retailhub.co.uk
+62,Roger,Barnett,Sales Associate,6,2022-11-25,20704.32,roger.barnett@retailhub.co.uk
+63,Beth,Mitchell,Sales Associate,6,2021-05-13,24871.33,beth.mitchell@retailhub.co.uk
+64,George,Campbell,Sales Associate,6,2018-01-04,21259.27,george.campbell@retailhub.co.uk
+65,Lesley,Hamilton,Cashier,6,2022-08-26,22450.45,lesley.hamilton@retailhub.co.uk
+66,Maureen,Davies,Cashier,6,2018-01-27,22256.53,maureen.davies@retailhub.co.uk
+67,Bethan,Ward,Sales Associate,6,2018-12-12,25166.29,bethan.ward@retailhub.co.uk
+68,Mary,Garner,Inventory Clerk,6,2021-09-28,24661.57,mary.garner@retailhub.co.uk
+69,Bernard,Cooper,Assistant Manager,6,2023-09-22,33425.34,bernard.cooper@retailhub.co.uk
+70,Timothy,Webb,Sales Associate,6,2020-11-17,23696.91,timothy.webb@retailhub.co.uk
+71,Clifford,Khan,Inventory Clerk,6,2024-01-22,25709.1,clifford.khan@retailhub.co.uk
+72,Aaron,Hart,Assistant Manager,6,2023-04-22,36508.24,aaron.hart@retailhub.co.uk
+73,Brian,Hill,Store Manager,7,2018-01-25,49412.53,brian.hill@retailhub.co.uk
+74,Francesca,O'Brien,Cashier,7,,20042.36,francesca.o'brien@retailhub.co.uk
+75,Allan,Johnson,Cashier,7,2019-03-10,22500.38,allan.johnson@retailhub.co.uk
+76,Victoria,Richards,Cashier,7,2021-06-19,21146.38,victoria.richards@retailhub.co.uk
+77,Charlie,Hopkins,Cashier,7,2018-10-15,19737.14,charlie.hopkins@retailhub.co.uk
+78,Harry,Wright,Sales Associate,7,2021-01-03,21663.94,harry.wright@retailhub.co.uk
+79,Anne,McLean,Inventory Clerk,7,2019-02-05,24935.38,anne.mclean_at_retailhub.co.uk
+80,Martyn,Berry,Sales Associate,7,2019-12-12,24208.56,martyn.berry@retailhub.co.uk
+81,Grace,Foster,Cashier,7,2022-10-05,20030.76,grace.foster@retailhub.co.uk
+82,Hollie,Payne,Inventory Clerk,7,2024-08-20,21877.46,hollie.payne@retailhub.co.uk
+83,Josh,Martin,Cashier,7,2022-10-03,20788.39,josh.martin@retailhub.co.uk
+84,Roy,Morris,Inventory Clerk,7,2020-04-25,22485.33,roy.morris@retailhub.co.uk
+85,Alexander,Leonard,Store Manager,8,2024-03-20,47725.85,alexander.leonard@retailhub.co.uk
+86,Shane,Hughes,Inventory Clerk,8,2018-11-19,26263.9,shane.hughes@retailhub.co.uk
+87,Dawn,Dawson,Sales Associate,8,2018-07-23,22728.17,dawn.dawson@retailhub.co.uk
+88,James,Scott,Sales Associate,8,2025-04-25,22928.27,james.scott@retailhub.co.uk
+89,Wayne,Cooper,Cashier,8,2024-07-28,21827.82,wayne.cooper@retailhub.co.uk
+90,Emily,Owen,Cashier,8,2023-05-08,22975.63,emily.owen@retailhub.co.uk
+91,Megan,Watson,Sales Associate,8,2024-01-14,25083.0,megan.watson@retailhub.co.uk
+92,Andrew,Fox,Assistant Manager,8,2018-02-09,30745.13,andrew.fox@retailhub.co.uk
+93,Robin,Thomas,Cashier,8,2018-06-23,23388.6,robin.thomas@retailhub.co.uk
+94,Patricia,O'Sullivan,Cashier,8,2022-12-04,22039.36,patricia.o'sullivan@retailhub.co.uk
+95,Donna,Perkins,Sales Associate,8,2021-04-26,24183.73,donna.perkins@retailhub.co.uk
+96,Joanne,Reeves,Cashier,8,2022-03-16,22900.42,joanne.reeves@retailhub.co.uk
+97,Amber,Gould,Store Manager,9,2018-08-28,50518.17,amber.gould@retailhub.co.uk
+98,Jason,Lewis,Cashier,9,2019-08-05,22549.02,jason.lewis@retailhub.co.uk
+99,Dean,Wilkinson,Sales Associate,9,2021-01-22,20275.66,dean.wilkinson@retailhub.co.uk
+100,Ashleigh,Miller,Inventory Clerk,9,2023-02-03,24757.08,ashleigh.miller@retailhub.co.uk
+101,Carly,Collins,Inventory Clerk,9,2023-06-22,26020.21,carly.collins@retailhub.co.uk
+102,Shane,Tomlinson,Sales Associate,9,2018-09-04,20097.69,shane.tomlinson@retailhub.co.uk
+103,Tracy,Clark,Sales Associate,9,2022-10-18,25576.6,tracy.clark@retailhub.co.uk
+104,William,Gordon,Sales Associate,9,2023-10-23,20947.9,william.gordon@retailhub.co.uk
+105,Clive,Baldwin,Cashier,9,2023-07-19,21326.07,clive.baldwin@retailhub.co.uk
+106,Rita,Brown,Sales Associate,9,2021-11-21,25951.03,rita.brown@retailhub.co.uk
+107,Denis,Norris,Inventory Clerk,9,2024-02-19,23566.8,denis.norris@retailhub.co.uk
+108,Garry,Thompson,Cashier,9,2018-12-30,23482.78,garry.thompson@retailhub.co.uk
+109,Max,Hope,Store Manager,10,2018-12-04,46758.46,max.hope@retailhub.co.uk
+110,Robert,Goodwin,Inventory Clerk,10,2021-05-13,25355.93,robert.goodwin@retailhub.co.uk
+111,Judith,Collins,Inventory Clerk,10,2023-07-31,25531.39,judith.collins@retailhub.co.uk
+112,Melissa,Johnson,Sales Associate,10,2021-11-20,22575.39,melissa.johnson@retailhub.co.uk
+113,Denise,Evans,Inventory Clerk,10,2021-11-30,21547.2,denise.evans@retailhub.co.uk
+114,Kirsty,Thompson,Inventory Clerk,10,2019-03-27,21571.1,kirsty.thompson@retailhub.co.uk
+115,Timothy,Lawrence,Assistant Manager,10,2023-04-13,31707.37,timothy.lawrence@retailhub.co.uk
+116,Connor,Wilson,Sales Associate,10,2021-12-26,20467.63,connor.wilson@retailhub.co.uk
+117,Samuel,Taylor,Assistant Manager,10,2018-02-05,34749.44,samuel.taylor@retailhub.co.uk
+118,Jordan,Jones,Cashier,10,2020-12-31,21577.78,jordan.jones@retailhub.co.uk
+119,Kieran,Gardner,Cashier,10,2025-07-10,21280.27,kieran.gardner@retailhub.co.uk
+120,Alan,Fisher,Assistant Manager,10,2025-02-27,30064.5,alan.fisher@retailhub.co.uk
+121,Abbie,Burton,Store Manager,11,2020-07-09,43358.09,abbie.burton@retailhub.co.uk
+122,Helen,Chadwick,Sales Associate,11,2020-07-04,24880.21,helen.chadwick@retailhub.co.uk
+123,Martin,Bradshaw,Assistant Manager,11,2018-12-08,36995.98,martin.bradshaw@retailhub.co.uk
+124,Ellie,Poole,Inventory Clerk,11,2019-05-29,24849.46,ellie.poole@retailhub.co.uk
+125,Georgia,Robinson,Cashier,11,,22208.55,georgia.robinson@retailhub.co.uk
+126,Brian,Hawkins,Sales Associate,11,2024-10-13,20410.47,brian.hawkins@retailhub.co.uk
+127,Graeme,Mills,Sales Associate,11,2022-05-02,23379.75,graeme.mills@retailhub.co.uk
+128,John,Connolly,Assistant Manager,11,2020-04-14,34882.55,john.connolly@retailhub.co.uk
+129,Leon,Cox,Cashier,11,,20156.47,leon.cox@retailhub.co.uk
+130,Laura,Wright,Assistant Manager,11,2021-11-12,32809.5,laura.wright@retailhub.co.uk
+131,Dominic,Hope,Sales Associate,11,2022-04-13,21278.33,dominic.hope@retailhub.co.uk
+132,Duncan,Hayes,Sales Associate,11,2025-04-21,24489.61,duncan.hayes@retailhub.co.uk
+133,Peter,Barnes,Store Manager,12,2020-09-18,41469.01,peter.barnes@retailhub.co.uk
+134,Annette,Shaw,Inventory Clerk,12,2025-06-13,24867.72,annette.shaw@retailhub.co.uk
+135,David,Reed,Cashier,12,2020-12-12,20492.67,david.reed@retailhub.co.uk
+136,Mohammad,Webb,Sales Associate,12,2022-02-24,23605.99,mohammad.webb@retailhub.co.uk
+137,Frank,Burton,Sales Associate,12,2025-07-12,24327.08,frank.burton@retailhub.co.uk
+138,Patrick,Ellis,Inventory Clerk,12,2018-09-24,22709.52,patrick.ellis@retailhub.co.uk
+139,Dale,Bartlett,Sales Associate,12,2022-01-27,25647.68,dale.bartlett@retailhub.co.uk
+140,Beth,Bowen,Assistant Manager,12,2021-08-04,30214.6,beth.bowen@retailhub.co.uk
+141,Graham,Jackson,Cashier,12,2021-12-17,22888.28,graham.jackson@retailhub.co.uk
+142,Kim,Perry,Sales Associate,12,2018-08-03,25254.96,kim.perry@retailhub.co.uk
+143,Kirsty,Farmer,Sales Associate,12,2023-03-11,21232.67,kirsty.farmer@retailhub.co.uk
+144,Callum,Smith,Cashier,12,2020-01-17,21927.71,callum.smith@retailhub.co.uk
+145,Guy,Bennett,Store Manager,13,2021-01-29,38168.94,guy.bennett@retailhub.co.uk
+146,Toby,Stephens,Sales Associate,13,2020-02-18,22166.59,toby.stephens@retailhub.co.uk
+147,Keith,Curtis,Sales Associate,13,2019-01-25,21898.84,keith.curtis@retailhub.co.uk
+148,Fiona,Griffiths,Cashier,13,2018-10-30,21047.35,fiona.griffiths@retailhub.co.uk
+149,Barbara,Hall,Cashier,13,2021-03-09,22855.89,barbara.hall@retailhub.co.uk
+150,Paula,Evans,Cashier,13,2024-01-13,21183.45,paula.evans@retailhub.co.uk
+151,Alison,Herbert,Sales Associate,13,2020-01-29,23278.14,alison.herbert@retailhub.co.uk
+152,Trevor,Green,Sales Associate,13,2024-04-29,21036.62,trevor.green@retailhub.co.uk
+153,Leon,Mason,Sales Associate,13,2023-06-17,22826.09,leon.mason@retailhub.co.uk
+154,Simon,Stevens,Cashier,13,2024-09-16,23449.47,simon.stevens@retailhub.co.uk
+155,Sean,Green,Assistant Manager,13,2019-12-12,30583.93,sean.green@retailhub.co.uk
+156,Susan,Frost,Inventory Clerk,13,2018-05-21,24524.18,susan.frost@retailhub.co.uk
+157,Clifford,Smith,Store Manager,14,,45527.18,clifford.smith@retailhub.co.uk
+158,Robert,Watson,Assistant Manager,14,2024-09-11,31221.44,robert.watson@retailhub.co.uk
+159,Suzanne,Morris,Sales Associate,14,2019-12-16,20501.58,suzanne.morris@retailhub.co.uk
+160,Bethany,Warner,Inventory Clerk,14,2024-03-21,21474.13,bethany.warner@retailhub.co.uk
+161,Adrian,Brown,Inventory Clerk,14,2024-07-03,26525.55,adrian.brown@retailhub.co.uk
+162,Ross,Clarke,Sales Associate,14,2024-06-14,25845.88,ross.clarke@retailhub.co.uk
+163,Christine,Holmes,Sales Associate,14,2025-05-06,20932.26,christine.holmes@retailhub.co.uk
+164,Graham,Jackson,Cashier,14,2020-01-11,20807.0,graham.jackson@retailhub.co.uk
+165,Keith,Brown,Cashier,14,2018-07-04,21845.75,keith.brown@retailhub.co.uk
+166,Leah,Williams,Sales Associate,14,2019-01-04,24579.34,leah.williams@retailhub.co.uk
+167,Mohamed,Blake,Sales Associate,14,2025-05-19,23899.04,mohamed.blake@retailhub.co.uk
+168,Adam,Thompson,Cashier,14,2022-06-30,22072.62,adam.thompson@retailhub.co.uk
+169,Hannah,Hughes,Store Manager,15,2020-12-30,40459.04,hannah.hughes@retailhub.co.uk
+170,Rachel,Lord,Sales Associate,15,2019-09-07,20075.99,rachel.lord@retailhub.co.uk
+171,Christian,White,Sales Associate,15,2021-06-30,20823.27,christian.white@retailhub.co.uk
+172,Kieran,Hancock,Inventory Clerk,15,2022-11-07,21068.1,kieran.hancock@retailhub.co.uk
+173,Duncan,Miah,Sales Associate,15,2021-11-28,22978.48,duncan.miah_at_retailhub.co.uk
+174,Georgina,Jones,Sales Associate,15,2018-09-08,22080.23,georgina.jones@retailhub.co.uk
+175,Jacqueline,Khan,Inventory Clerk,15,2019-07-25,24103.34,jacqueline.khan@retailhub.co.uk
+176,Kerry,Smith,Assistant Manager,15,2025-10-15,36580.05,kerry.smith@retailhub.co.uk
+177,Paige,James,Cashier,15,2025-10-01,20536.99,paige.james@retailhub.co.uk
+178,Sarah,Jones,Assistant Manager,15,2024-02-14,32974.96,sarah.jones@retailhub.co.uk
+179,Leigh,Walker,Cashier,15,2021-12-08,22499.11,leigh.walker@retailhub.co.uk
+180,Charlotte,Dixon,Cashier,15,2018-03-16,22993.84,charlotte.dixon_at_retailhub.co.uk
+181,Jodie,Lloyd,Store Manager,16,2025-01-06,38776.15,jodie.lloyd@retailhub.co.uk
+182,Leonard,Howard,Cashier,16,2025-10-07,22937.44,leonard.howard@retailhub.co.uk
+183,Melanie,Evans,Assistant Manager,16,2022-07-29,31335.05,melanie.evans@retailhub.co.uk
+184,Donald,Simpson,Inventory Clerk,16,2018-10-14,21943.86,donald.simpson@retailhub.co.uk
+185,Sylvia,Smith,Sales Associate,16,2022-03-07,24639.97,sylvia.smith@retailhub.co.uk
+186,William,Miller,Sales Associate,16,2025-06-04,25365.61,william.miller@retailhub.co.uk
+187,Beverley,Baker,Cashier,16,2024-03-31,22196.48,beverley.baker@retailhub.co.uk
+188,Owen,Hudson,Sales Associate,16,2025-10-07,20692.0,owen.hudson@retailhub.co.uk
+189,Kyle,Noble,Inventory Clerk,16,2022-08-23,25444.68,kyle.noble@retailhub.co.uk
+190,Amelia,Evans,Cashier,16,2022-08-20,19510.27,amelia.evans@retailhub.co.uk
+191,Geraldine,Harrison,Sales Associate,16,2025-06-03,25152.13,geraldine.harrison@retailhub.co.uk
+192,Lynne,Sanders,Cashier,16,2025-06-06,19549.15,lynne.sanders@retailhub.co.uk
+193,Valerie,Freeman,Store Manager,17,2019-05-18,50821.97,valerie.freeman@retailhub.co.uk
+194,Ian,Green,Assistant Manager,17,2019-10-28,32559.48,ian.green@retailhub.co.uk
+195,Gerald,Brown,Sales Associate,17,2021-09-29,24955.98,gerald.brown@retailhub.co.uk
+196,Mohamed,Bell,Inventory Clerk,17,2019-07-31,24429.22,mohamed.bell@retailhub.co.uk
+197,Callum,Cook,Sales Associate,17,2019-05-23,20716.41,callum.cook@retailhub.co.uk
+198,Brandon,Howard,Inventory Clerk,17,2019-02-27,25039.95,brandon.howard@retailhub.co.uk
+199,Geraldine,Bell,Assistant Manager,17,2024-01-25,30421.38,geraldine.bell@retailhub.co.uk
+200,Kerry,Taylor,Cashier,17,2025-07-11,20392.74,kerry.taylor@retailhub.co.uk
+201,Karen,Campbell,Cashier,17,2023-03-10,21563.1,karen.campbell@retailhub.co.uk
+202,Kate,Spencer,Cashier,17,,19683.71,kate.spencer@retailhub.co.uk
+203,Barry,Simpson,Sales Associate,17,2023-09-27,22405.55,barry.simpson@retailhub.co.uk
+204,Amanda,James,Sales Associate,17,2025-07-11,25261.95,amanda.james@retailhub.co.uk
+205,Francesca,Stephens,Store Manager,18,2023-07-17,51606.01,francesca.stephens@retailhub.co.uk
+206,Chelsea,Faulkner,Inventory Clerk,18,2025-04-11,26986.72,chelsea.faulkner@retailhub.co.uk
+207,Susan,Wilson,Cashier,18,2022-08-12,22603.54,susan.wilson@retailhub.co.uk
+208,Clive,Owens,Sales Associate,18,2023-10-01,24394.78,clive.owens@retailhub.co.uk
+209,Billy,Clarke,Assistant Manager,18,2023-09-17,34372.47,billy.clarke@retailhub.co.uk
+210,Rita,Wells,Sales Associate,18,2021-01-25,24775.84,rita.wells@retailhub.co.uk
+211,Kirsty,Higgins,Sales Associate,18,2022-09-20,20903.4,kirsty.higgins@retailhub.co.uk
+212,Molly,Quinn,Sales Associate,18,2022-06-07,25594.39,molly.quinn@retailhub.co.uk
+213,Jean,Davidson,Cashier,18,,19595.64,jean.davidson@retailhub.co.uk
+214,Frank,Ward,Cashier,18,2020-07-03,21666.18,frank.ward@retailhub.co.uk
+215,Heather,Young,Sales Associate,18,2018-09-11,23815.65,heather.young@retailhub.co.uk
+216,Lindsey,Davies,Sales Associate,18,2023-09-18,24160.76,lindsey.davies@retailhub.co.uk
+217,Albert,Williams,Store Manager,19,2020-01-29,39993.23,albert.williams@retailhub.co.uk
+218,Frederick,Marshall,Assistant Manager,19,2020-09-29,32238.6,frederick.marshall@retailhub.co.uk
+219,Raymond,Atkinson,Sales Associate,19,2018-05-18,20263.4,raymond.atkinson@retailhub.co.uk
+220,Jennifer,Hope,Cashier,19,2025-08-04,20425.89,jennifer.hope@retailhub.co.uk
+221,Amy,Hughes,Sales Associate,19,,25073.03,amy.hughes@retailhub.co.uk
+222,Janice,Patel,Cashier,19,2024-06-29,21152.23,janice.patel@retailhub.co.uk
+223,Melissa,Horton,Sales Associate,19,2023-05-20,25373.47,melissa.horton_at_retailhub.co.uk
+224,Ben,Price,Sales Associate,19,2024-04-05,22750.75,ben.price@retailhub.co.uk
+225,Joshua,Harris,Inventory Clerk,19,2020-06-30,25487.4,joshua.harris@retailhub.co.uk
+226,Stuart,Ford,Sales Associate,19,2019-05-02,23484.62,stuart.ford@retailhub.co.uk
+227,Nicola,Walsh,Inventory Clerk,19,2018-08-03,24032.57,nicola.walsh@retailhub.co.uk
+228,Colin,Haynes,Inventory Clerk,19,2025-09-19,24823.29,colin.haynes@retailhub.co.uk
+229,Pamela,Campbell,Store Manager,20,2021-05-19,44338.61,pamela.campbell@retailhub.co.uk
+230,Hilary,O'Brien,Sales Associate,20,2024-12-20,21401.67,hilary.o'brien@retailhub.co.uk
+231,Charles,Collier,Cashier,20,2020-08-05,23274.22,charles.collier@retailhub.co.uk
+232,Karl,Bolton,Assistant Manager,20,2022-05-05,31088.89,karl.bolton_at_retailhub.co.uk
+233,Sheila,Phillips,Cashier,20,2020-03-16,22580.59,sheila.phillips@retailhub.co.uk
+234,Frank,Green,Sales Associate,20,2021-01-29,20653.84,frank.green@retailhub.co.uk
+235,Georgina,Gray,Sales Associate,20,2019-03-16,20633.95,georgina.gray@retailhub.co.uk
+236,Rebecca,Harper,Inventory Clerk,20,2018-09-08,23697.4,rebecca.harper@retailhub.co.uk
+237,Irene,Johnson,Inventory Clerk,20,,22884.2,irene.johnson@retailhub.co.uk
+238,Lewis,Payne,Sales Associate,20,2019-05-04,20724.42,lewis.payne@retailhub.co.uk
+239,Iain,Stewart,Inventory Clerk,20,2021-09-16,23149.72,iain.stewart@retailhub.co.uk
+240,Connor,Herbert,Sales Associate,20,2021-02-11,24622.02,connor.herbert@retailhub.co.uk
+241,Wendy,Bowen,Store Manager,21,,40076.53,wendy.bowen@retailhub.co.uk
+242,Jemma,Dunn,Sales Associate,21,2019-06-13,24266.94,jemma.dunn@retailhub.co.uk
+243,Margaret,Charlton,Sales Associate,21,2021-06-29,25810.4,margaret.charlton@retailhub.co.uk
+244,Marcus,Williams,Inventory Clerk,21,2020-01-24,23377.47,marcus.williams@retailhub.co.uk
+245,Max,Armstrong,Assistant Manager,21,2019-03-09,30391.6,max.armstrong@retailhub.co.uk
+246,Bethan,King,Cashier,21,2018-09-03,20695.36,bethan.king@retailhub.co.uk
+247,Leigh,Mann,Sales Associate,21,2021-03-30,24920.54,leigh.mann@retailhub.co.uk
+248,Joan,Wilson,Cashier,21,2018-06-24,20195.47,joan.wilson@retailhub.co.uk
+249,Charlotte,Summers,Cashier,21,2021-04-12,23308.39,charlotte.summers@retailhub.co.uk
+250,Paula,Holmes,Sales Associate,21,2025-05-02,25127.61,paula.holmes@retailhub.co.uk
+251,Marion,Wallace,Inventory Clerk,21,2021-09-24,24335.72,marion.wallace@retailhub.co.uk
+252,Jason,Byrne,Store Manager,22,2024-09-09,47607.99,jason.byrne@retailhub.co.uk
+253,Joshua,Knight,Cashier,22,2025-01-20,23250.3,joshua.knight@retailhub.co.uk
+254,Alexandra,Davies,Assistant Manager,22,2022-11-10,30672.32,alexandra.davies@retailhub.co.uk
+255,Trevor,Wells,Assistant Manager,22,2021-07-08,34688.95,trevor.wells@retailhub.co.uk
+256,Mohammed,Page,Cashier,22,2024-05-02,23169.71,mohammed.page@retailhub.co.uk
+257,Malcolm,Thomas,Assistant Manager,22,2018-08-13,30599.9,malcolm.thomas@retailhub.co.uk
+258,Jill,Williams,Assistant Manager,22,2025-10-24,37977.29,jill.williams@retailhub.co.uk
+259,Teresa,Kennedy,Cashier,22,2022-08-30,20291.0,teresa.kennedy@retailhub.co.uk
+260,Stanley,Walker,Sales Associate,22,2025-02-28,23875.92,stanley.walker@retailhub.co.uk
+261,Joseph,Hopkins,Sales Associate,22,2022-05-11,24855.79,joseph.hopkins@retailhub.co.uk
+262,Lynn,Rose,Sales Associate,22,2020-03-01,20551.87,lynn.rose@retailhub.co.uk
+263,Clare,Bell,Store Manager,23,2018-02-05,43973.3,clare.bell@retailhub.co.uk
+264,Beth,Johnson,Inventory Clerk,23,2022-02-04,23123.66,beth.johnson@retailhub.co.uk
+265,Samantha,Clark,Cashier,23,2019-03-05,23133.22,samantha.clark@retailhub.co.uk
+266,Kirsty,Fox,Assistant Manager,23,2023-12-10,32199.85,kirsty.fox@retailhub.co.uk
+267,Oliver,Bennett,Inventory Clerk,23,2022-05-29,23676.07,oliver.bennett@retailhub.co.uk
+268,Oliver,Thornton,Assistant Manager,23,2024-10-17,31189.05,oliver.thornton@retailhub.co.uk
+269,Leigh,Shaw,Inventory Clerk,23,2020-01-26,24684.64,leigh.shaw@retailhub.co.uk
+270,Abbie,Jones,Sales Associate,23,2022-10-09,23701.86,abbie.jones@retailhub.co.uk
+271,Ian,Thompson,Cashier,23,2021-02-26,22089.11,ian.thompson@retailhub.co.uk
+272,Marian,Jenkins,Sales Associate,23,2023-06-08,22993.35,marian.jenkins@retailhub.co.uk
+273,Ian,Byrne,Sales Associate,23,2024-11-19,25296.67,ian.byrne@retailhub.co.uk
+274,Hollie,Smith,Store Manager,24,2023-11-04,43354.97,hollie.smith@retailhub.co.uk
+275,Max,Bartlett,Sales Associate,24,2018-02-27,24280.22,max.bartlett@retailhub.co.uk
+276,Leon,Kemp,Assistant Manager,24,2024-08-08,33837.48,leon.kemp@retailhub.co.uk
+277,Bethan,Richardson,Sales Associate,24,2025-08-14,24688.61,bethan.richardson@retailhub.co.uk
+278,Julian,Macdonald,Sales Associate,24,2025-08-19,22064.2,julian.macdonald@retailhub.co.uk
+279,Angela,Russell,Cashier,24,2020-07-07,21762.6,angela.russell@retailhub.co.uk
+280,Helen,Butler,Cashier,24,2018-09-13,20786.42,helen.butler@retailhub.co.uk
+281,Angela,Kelly,Sales Associate,24,2024-06-15,21622.61,angela.kelly@retailhub.co.uk
+282,Danielle,Carter,Inventory Clerk,24,2024-10-17,21156.38,danielle.carter@retailhub.co.uk
+283,William,Lewis,Cashier,24,2019-03-31,21888.47,william.lewis_at_retailhub.co.uk
+284,Graeme,Ellis,Assistant Manager,24,2021-02-28,30234.43,graeme.ellis@retailhub.co.uk
+285,Judith,Shaw,Store Manager,25,2018-03-24,45471.65,judith.shaw@retailhub.co.uk
+286,Alex,Gardiner,Cashier,25,2019-07-29,22664.95,alex.gardiner@retailhub.co.uk
+287,Kevin,Smith,Sales Associate,25,2021-07-29,24422.36,kevin.smith@retailhub.co.uk
+288,Rebecca,Cole,Cashier,25,2020-02-23,22556.2,rebecca.cole@retailhub.co.uk
+289,Gillian,Lowe,Sales Associate,25,2022-12-23,25686.81,gillian.lowe@retailhub.co.uk
+290,Harry,Davies,Sales Associate,25,2019-11-24,23454.15,harry.davies@retailhub.co.uk
+291,Wendy,Wright,Cashier,25,2019-05-24,23430.66,wendy.wright@retailhub.co.uk
+292,Elaine,Fox,Sales Associate,25,2020-09-27,22330.54,elaine.fox@retailhub.co.uk
+293,Ben,Smart,Sales Associate,25,2020-01-11,25611.24,ben.smart@retailhub.co.uk
+294,Charlene,Green,Sales Associate,25,2018-03-20,25949.25,charlene.green@retailhub.co.uk
+295,Adam,Humphries,Sales Associate,25,2022-06-26,21042.27,adam.humphries@retailhub.co.uk
+296,Allan,Baxter,Store Manager,26,2023-01-27,49713.76,allan.baxter@retailhub.co.uk
+297,Sian,Martin,Sales Associate,26,2023-02-08,24862.41,sian.martin@retailhub.co.uk
+298,Sally,Brown,Sales Associate,26,2024-02-11,25822.33,sally.brown@retailhub.co.uk
+299,Jill,Bailey,Cashier,26,2025-02-20,21668.5,jill.bailey@retailhub.co.uk
+300,Eileen,Lord,Sales Associate,26,2024-04-10,21053.34,eileen.lord@retailhub.co.uk
+301,Francis,Smith,Cashier,26,2024-04-22,19651.85,francis.smith@retailhub.co.uk
+302,Stewart,Edwards,Cashier,26,2023-07-23,19724.67,stewart.edwards@retailhub.co.uk
+303,Henry,Douglas,Sales Associate,26,2020-12-13,23609.98,henry.douglas@retailhub.co.uk
+304,Damien,Nicholls,Cashier,26,2019-09-17,19579.71,damien.nicholls@retailhub.co.uk
+305,Josh,Davies,Sales Associate,26,2024-06-16,22867.93,josh.davies@retailhub.co.uk
+306,Patricia,Jackson,Inventory Clerk,26,2018-01-22,22990.4,patricia.jackson@retailhub.co.uk
+307,Cheryl,Morgan,Store Manager,27,2024-07-29,39552.89,cheryl.morgan@retailhub.co.uk
+308,Chelsea,Miah,Cashier,27,2022-10-09,21605.18,chelsea.miah@retailhub.co.uk
+309,Joel,Richardson,Cashier,27,2021-10-10,20959.56,joel.richardson@retailhub.co.uk
+310,Tom,Scott,Sales Associate,27,2023-01-07,20435.19,tom.scott@retailhub.co.uk
+311,Martyn,Smith,Sales Associate,27,2023-07-28,24227.23,martyn.smith@retailhub.co.uk
+312,Naomi,Burns,Cashier,27,2019-03-05,22148.56,naomi.burns@retailhub.co.uk
+313,Cameron,Lyons,Inventory Clerk,27,2024-04-23,24516.1,cameron.lyons@retailhub.co.uk
+314,Grace,Ahmed,Assistant Manager,27,2020-07-03,32692.49,grace.ahmed@retailhub.co.uk
+315,Bradley,Atkinson,Sales Associate,27,2023-02-19,21935.62,bradley.atkinson@retailhub.co.uk
+316,Bryan,Smith,Cashier,27,2021-04-12,23403.44,bryan.smith@retailhub.co.uk
+317,Charlotte,Pratt,Sales Associate,27,2022-07-27,24394.11,charlotte.pratt@retailhub.co.uk
+318,Alexandra,Sharp,Store Manager,28,2020-09-08,49402.36,alexandra.sharp@retailhub.co.uk
+319,Ross,Holmes,Sales Associate,28,2023-01-01,22270.3,ross.holmes@retailhub.co.uk
+320,Alice,Walker,Cashier,28,2023-04-07,22435.98,alice.walker@retailhub.co.uk
+321,Kathleen,Hodgson,Sales Associate,28,2019-05-02,21767.1,kathleen.hodgson@retailhub.co.uk
+322,Sylvia,Hawkins,Sales Associate,28,2019-06-03,21066.25,sylvia.hawkins@retailhub.co.uk
+323,Lewis,Jones,Cashier,28,2023-10-21,19507.19,lewis.jones@retailhub.co.uk
+324,Yvonne,Miller,Cashier,28,2019-06-08,22308.03,yvonne.miller@retailhub.co.uk
+325,Gail,Lyons,Inventory Clerk,28,2023-02-16,24437.01,gail.lyons@retailhub.co.uk
+326,Ross,Evans,Cashier,28,2023-10-31,22903.03,ross.evans@retailhub.co.uk
+327,Mohammad,Burton,Sales Associate,28,2024-12-12,24624.98,mohammad.burton@retailhub.co.uk
+328,Christine,Smith,Cashier,28,2020-04-21,21769.93,christine.smith@retailhub.co.uk
+329,Terence,Jones,Store Manager,29,2024-10-14,42473.26,terence.jones@retailhub.co.uk
+330,Carole,Jackson,Sales Associate,29,2022-11-11,23817.12,carole.jackson@retailhub.co.uk
+331,Megan,Ball,Sales Associate,29,2021-12-02,25778.48,megan.ball@retailhub.co.uk
+332,Gail,Palmer,Cashier,29,2020-05-03,22786.65,gail.palmer@retailhub.co.uk
+333,Alexander,Taylor,Cashier,29,2019-03-08,22180.1,alexander.taylor@retailhub.co.uk
+334,Marc,Ward,Cashier,29,2025-09-25,22417.14,marc.ward@retailhub.co.uk
+335,Clare,Wilkins,Assistant Manager,29,2024-10-03,32686.0,clare.wilkins@retailhub.co.uk
+336,Jeremy,Marsh,Sales Associate,29,2021-10-26,20068.37,jeremy.marsh@retailhub.co.uk
+337,Julia,Scott,Sales Associate,29,2020-06-15,21258.11,julia.scott@retailhub.co.uk
+338,Kevin,Burgess,Assistant Manager,29,2020-02-22,35545.41,kevin.burgess@retailhub.co.uk
+339,Leslie,Allen,Sales Associate,29,2019-03-30,22102.89,leslie.allen@retailhub.co.uk
+340,Craig,Clarke,Store Manager,30,2021-05-25,49603.3,craig.clarke@retailhub.co.uk
+341,Anne,Ahmed,Cashier,30,2025-07-24,22654.92,anne.ahmed@retailhub.co.uk
+342,Jacqueline,Burgess,Cashier,30,2022-03-08,21812.22,jacqueline.burgess@retailhub.co.uk
+343,Karen,Giles,Assistant Manager,30,2024-12-27,36065.95,karen.giles@retailhub.co.uk
+344,Melanie,Bates,Sales Associate,30,2023-04-21,21353.5,melanie.bates@retailhub.co.uk
+345,Kayleigh,Hunter,Sales Associate,30,2019-10-10,22707.72,kayleigh.hunter@retailhub.co.uk
+346,Leigh,Webster,Sales Associate,30,2018-10-21,24795.17,leigh.webster@retailhub.co.uk
+347,Stephanie,Fox,Sales Associate,30,2019-04-23,20200.48,stephanie.fox@retailhub.co.uk
+348,Jordan,Burns,Inventory Clerk,30,2020-04-12,21120.47,jordan.burns@retailhub.co.uk
+349,Maria,Anderson,Sales Associate,30,2020-08-24,21566.77,maria.anderson@retailhub.co.uk
+350,Joyce,Turner,Sales Associate,30,2020-09-07,20628.35,joyce.turner@retailhub.co.uk
+351,Beth,Mitchell,Sales Associate,6,2021-05-13,24871.33,beth.mitchell@retailhub.co.uk
+352,John,Connolly,Assistant Manager,11,2020-04-14,34882.55,john.connolly@retailhub.co.uk
+353,Colin,Elliott,Sales Associate,4,2021-08-04,23918.42,colin.elliott@retailhub.co.uk
+354,William,Miller,Sales Associate,16,2025-06-04,25365.61,william.miller@retailhub.co.uk
+355,Gail,Lyons,Inventory Clerk,28,2023-02-16,24437.01,gail.lyons@retailhub.co.uk
+356,Jill,Carter,Sales Associate,5,2018-05-12,23436.28,jill.carter_at_retailhub.co.uk
+357,Max,Russell,Cashier,2,2024-06-13,22315.04,max.russell@retailhub.co.uk
