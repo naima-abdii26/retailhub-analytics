@@ -9,24 +9,24 @@ generated with Python (Faker library). It follows a full analytics pipeline:
 **data cleaning → SQL business analysis → Excel → Power BI dashboards**.
 
 ## Status
-🚧 In Progress — SQL Business Analysis phase (Product Analysis)
+🚧 In Progress — Product Analysis complete, starting Customer Analysis next
 
 ## Project Structure
-
-
 
 retailhub_Analysis/
 ├── Data/
 │ ├── Raw_Data/ # Original synthetic CSVs
-│ ├── Cleaned_Data/ # Cleaned CSV exports (coming soon)
+│ ├── Cleaned_Data/ # Cleaned CSV exports (all 12 tables)
 │ └── Documentation/ # Data dictionary, ER diagram, business scenario, profiling report
 ├── SQL/
 │ ├── Data_cleaning/ # Per-table cleaning scripts
 │ ├── Data_Profiling/ # Initial data exploration & profiling
-│ └── Business_Analysis/ # Business question SQL files (01-03 so far)
+│ └── Business_Analysis/ # Business question SQL files
+│ ├── 01_Overall_Performance.sql
+│ ├── 02_Sales_Trends.sql
+│ └── 03_Product_Analysis.sql # Complete (Queries 1-5)
 ├── PowerBI/ # (coming soon)
 └── Images/
-
 
 
 ## Dataset
@@ -39,6 +39,8 @@ and Suppliers.
 - 750 orders had no matching OrderDetails rows — flagged and documented, not deleted
 - Converted varchar date columns to proper DATE types
 - All data quality issues documented rather than silently removed, to preserve data integrity
+- Product Analysis: no true dead stock found (synthetic data distributed sales evenly);
+  profit margin varies significantly by product (15.72%–53.58%)
 
 ## Tools Used
 - SQL (MySQL Workbench)
