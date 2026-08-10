@@ -100,8 +100,118 @@ WHERE RevenueRankInCategory <= 3
 ORDER BY CategoryName, RevenueRankInCategory;
 
 
-
-
+-- ============================================
+-- Data Check: Distinct Status values in products
+-- ============================================
 
 SELECT DISTINCT Status
-FROM products
+FROM products;
+
+
+-- ============================================
+-- Query 4A: Products with Zero Sales (Full List, All Statuses)
+-- ============================================
+-- Business question: Which products have never sold, across all statuses?
+-- Uses LEFT JOIN so products with NO matching orderdetails still appear
+-- (a regular JOIN would silently exclude them).
+-- COALESCE turns NULL (no matching sales) into 0 for a clean, readable result.
+-- HAVING is used (not WHERE) because we're filtering on an aggregated value.
+
+SELECT 
+    p.ProductID,
+    p.ProductName,
+    p.Status,
+    COALESCE(SUM(od.Quantity), 0) AS TotalUnitsSold
+FROM products p
+LEFT JOIN orderdetails od ON p.ProductID = od.ProductID
+GROUP BY p.ProductID, p.ProductName, p.Status
+HAVING TotalUnitsSold = 0
+ORDER BY p.Status, p.ProductName;
+
+-- Result: 0 rows returned.
+
+
+-- ============================================
+-- Query 4B: Active Products with Zero Sales (Actionable List)
+-- ============================================
+-- Business question: Of products we're currently supposed to be selling,
+-- which ones aren't moving at all? This is the list worth investigating,
+-- since Discontinued/Out of Stock products having low sales is expected.
+
+SELECT 
+    p.ProductID,
+    p.ProductName,
+    p.CategoryID,
+    COALESCE(SUM(od.Quantity), 0) AS TotalUnitsSold
+FROM products p
+LEFT JOIN orderdetails od ON p.ProductID = od.ProductID
+WHERE p.Status = 'Active'
+GROUP BY p.ProductID, p.ProductName, p.CategoryID
+HAVING TotalUnitsSold = 0
+ORDER BY p.ProductName;
+
+-- Result: 0 rows returned.
+
+
+-- ============================================
+-- Data Check: Lowest 20 products by units sold (by category)
+-- ============================================
+-- Since zero-sales queries returned nothing, checked the real distribution
+-- of the lowest sellers to see if any products are unusually weak.
+
+SELECT p.ProductID, c.CategoryName, p.ProductName,
+SUM(od.Quantity) AS TotalUnitSold
+FROM products p
+JOIN orderdetails od ON p.ProductID = od.ProductID
+JOIN categories c ON p.CategoryID = c.CategoryID
+GROUP BY p.ProductID, c.CategoryName, p.ProductName
+ORDER BY TotalUnitSold ASC
+LIMIT 20;
+
+-- Finding: Unlike typical real-world retail data, this synthetic dataset shows
+-- no true dead stock — even the lowest-performing products sold 500+ units,
+-- with no single category underperforming disproportionately. This suggests
+-- the data generation process distributed sales fairly evenly across the catalog.
+
+
+-- ============================================
+-- Query 5A: Profit Margin by Product (Highest First)
+-- ============================================
+-- Business question: Which individual products are the most profitable
+-- to sell, regardless of category?
+
+SELECT 
+    p.ProductID,
+    p.ProductName,
+    ROUND(SUM(od.Quantity * od.UnitPrice * (1 - od.Discount)), 2) AS TotalRevenue,
+    SUM(od.Profit) AS TotalProfit,
+    ROUND((SUM(od.Profit) / SUM(od.Quantity * od.UnitPrice * (1 - od.Discount))) * 100, 2) AS ProfitMarginPct
+FROM orderdetails od
+JOIN products p ON od.ProductID = p.ProductID
+GROUP BY p.ProductID, p.ProductName
+ORDER BY ProfitMarginPct DESC
+LIMIT 10;
+
+
+-- ============================================
+-- Query 5B: Profit Margin by Product (Lowest First)
+-- ============================================
+-- Business question: Which individual products are the LEAST profitable
+-- to sell, even if they might sell in good volume?
+
+SELECT 
+    p.ProductID,
+    p.ProductName,
+    ROUND(SUM(od.Quantity * od.UnitPrice * (1 - od.Discount)), 2) AS TotalRevenue,
+    SUM(od.Profit) AS TotalProfit,
+    ROUND((SUM(od.Profit) / SUM(od.Quantity * od.UnitPrice * (1 - od.Discount))) * 100, 2) AS ProfitMarginPct
+FROM orderdetails od
+JOIN products p ON od.ProductID = p.ProductID
+GROUP BY p.ProductID, p.ProductName
+ORDER BY ProfitMarginPct ASC
+LIMIT 10;
+
+-- Finding: Profit margin varies a lot by product. The best (Epson Printer)
+-- earns ~53.58% margin, the worst (Opti Resistance Bands) only ~15.72% —
+-- over 3x difference. Worth checking why low-margin products cost so much
+-- or are priced so low.

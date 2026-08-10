@@ -1,0 +1,121 @@
+SupplierID,SupplierName,ContactName,Email,Phone,City,Country
+1,"Griffiths, Cox and Smith","Jane Davies",wrightryan@green.net,"+44(0)20 74960083",Shenzhen,China
+2,"Brooks, Kaur and Quinn","Bradley Barker",reedsam@oliver.com,01154960161,Rotterdam,Netherlands
+3,Baker-Butler,"Mr Bernard Wilkinson",sferguson@hurst.com,+44(0)1134960341,Cardiff,"United Kingdom"
+4,"Taylor Group","Carole Woods-Hargreaves",owen34@cross.com,"(0191) 4960327",Cardiff,"United Kingdom"
+5,Dixon-Bennett,"Ricky Lloyd-Duncan",wilsonryan@alexander-collins.org,+449098790537,Shanghai,China
+6,Young-Graham,"Holly Davidson",fiona69@evans-turner.com,"+44(0)161 4960710",Shenzhen,China
+7,"Gould and Sons","Dr Joel Collins",dwright@smith.co.uk,"(01632) 960184",Leeds,"United Kingdom"
+8,"Cook, Harris and Steele","Holly Page",kathleenwalker@burns.com,+44(0)1314960288,Newcastle,"United Kingdom"
+9,"Anderson Group","Victoria Murray",shane03@may.com,03069990822,Leeds,"United Kingdom"
+10,"Jones, Walton and Pritchard","Dr Kenneth Murray",graemematthews@brooks.com,"(0118) 496 0315",Krakow,Poland
+11,"Fox and Sons","Jamie Bailey",wilsonryan@bruce-smith.co.uk,"(0161) 4960382",Leeds,"United Kingdom"
+12,"Hudson, Bradshaw and Jones","Dr Dennis Bates",slaterowen@ali-taylor.com,"(029) 2018106",Glasgow,"United Kingdom"
+13,"Cook, Taylor and Smith","Sara Patterson",dakhtar@gardiner.info,08081570810,Shenzhen,China
+14,"Watkins, Lee and Morgan","Mr Jake Stevenson",zdobson@obrien.biz,"+44118 4960746",Hamburg,Germany
+15,"Andrews, Turner and Humphreys","Norman Nash-Doyle",jacksonjoanna@morris.com,(020)74960788,"New York",USA
+16,"George PLC","Lucy Rees",NULL,"(020) 74960909",Leeds,"United Kingdom"
+17,"Burton PLC","Elliot Saunders",dennis53@byrne-davies.com,"+44(0)151 496 0510","New York",USA
+18,Johnson-Moore,"Deborah Powell",wayne51@charlton.info,"+44(0)808 157 0849",Bristol,"United Kingdom"
+19,"Hill, King and Duffy","Lee Singh",arthurclark@cox.com,"0121 496 0935",Leicester,"United Kingdom"
+20,"Holmes LLC","Duncan Smith",greenmary@thomas-shepherd.com,"+4428 9018427",Glasgow,"United Kingdom"
+21,"Cole, Moore and Clark","Keith Kaur-Lee",sharonclarke@hargreaves-begum.com,"+44131 4960331",Krakow,Poland
+22,Porter-Young,"Ms Elaine Taylor",amyjennings@bennett.co.uk,(0909)8790342,Manchester,"United Kingdom"
+23,"Griffiths, Carr and Taylor","Caroline Warren",ystone@wilson.com,"+44141 496 0541",Milan,Italy
+24,Parsons-Bond,"Max Fry",clarkelliot@jackson.com,"(0115) 496 0965",Glasgow,"United Kingdom"
+25,"Fitzgerald, Williams and Robinson","Lorraine Sutton",conorthomas@winter-bennett.net,"+4429 2018356","Ho Chi Minh City",Vietnam
+26,"Wells LLC","Charles Adams",petersclifford@gordon.com,NULL,"New York",USA
+27,"Singh, Davies and Poole","Glen Hodgson",rogersrhys@thornton-jenkins.com,+44(0)1514960773,Krakow,Poland
+28,"Jones, Hutchinson and Coles","Lydia Cunningham",colin34@forster.com,+44(0)1134960379,Nottingham,"United Kingdom"
+29,"Murphy Ltd","Lewis Edwards",phughes@lynch.com,"+44306 9990632",Glasgow,"United Kingdom"
+30,"Weston, Parker and Smith","Mr Julian Browne",jking@stephens.net,"0151 4960872",Barcelona,Spain
+31,"Taylor, Power and Mitchell","Dr Elliot Jones",henrywilliams@hussain.net,+441144960223,Manchester,"United Kingdom"
+32,Faulkner-Cole,"Lynne Miles",nsanderson@mccarthy-moran.com,"(0909) 879 0967",Sheffield,"United Kingdom"
+33,"Hewitt LLC","Dr Rhys Powell",hollylloyd@jones-mccarthy.co.uk,(029)2018627,"New York",USA
+34,"Robinson PLC","Lynn Wright",shortanne@taylor.com,"+44118 496 0653",Liverpool,"United Kingdom"
+35,Mills-Carter,"Miss Anna Smith",jonessheila@watkins.com,"+44(0)28 9018100",Glasgow,"United Kingdom"
+36,"Ryan Inc","Martin Smith",kdavies@hall.com,"+44116 496 0991",Mumbai,India
+37,"Arnold Inc","James Murray",tfrost@wallis.co.uk,01184960149,"Ho Chi Minh City",Vietnam
+38,"Coles PLC","Mr Kyle Kent",brian85@baker.com,01514960572,"Ho Chi Minh City",Vietnam
+39,Noble-Bishop,"Barry Richards",uhall@phillips.com,+44(0)1184960737,Hamburg,Germany
+40,"Morrison, Lamb and Day","Dr George Jones",garry54@harrison.com,"+44(0)114 496 0367",Glasgow,"United Kingdom"
+41,"Reed, Marshall and Berry","Francis James",harriscarol@smith.net,"(0191) 496 0568",Mumbai,India
+42,Parsons-Price,"Hayley Wilson-Atkinson",trevor82@stevens.com,(01632)960989,Rotterdam,Netherlands
+43,Robinson-Lee,"Pauline Evans-Stokes",henrythomas@fisher.com,"+4428 9018710",Barcelona,Spain
+44,"Kirby, Jones and Cook","Hayley Singh",eclark@hughes-mellor.co.uk,"0114 4960229",Shenzhen,China
+45,Cunningham-Smith,"Gavin Butler",zoepalmer@jordan-fox.biz,"+44121 496 0990",London,"United Kingdom"
+46,"Hunt, Gibson and Carter","Kenneth Pritchard",fraserkyle@tucker.org,"0161 496 0403",Milan,Italy
+47,Goddard-Campbell,"Alan Holmes",kayleigh93@clark-wilson.com,+441184960210,Leeds,"United Kingdom"
+48,"James PLC","Glen Woodward-Williams",sholmes@hewitt-knight.info,"(0151) 4960190","Ho Chi Minh City",Vietnam
+49,Hunter-Butler,"Joanne Wilson",watkinsellie@allen-miller.com,"0161 496 0874","New York",USA
+50,"Turner Group","Duncan Morgan",NULL,"+44(0)141 496 0746",Sheffield,"United Kingdom"
+51,"Sims, Nicholson and Smith","Nicole Taylor",mossjoanna@ali-kay.com,"(028) 9018 0770",Nottingham,"United Kingdom"
+52,"Phillips and Sons","Beverley Wallace-Jones",simpsontina@ellis.net,"(0113) 496 0861",Glasgow,"United Kingdom"
+53,"Chambers Inc","Darren Miah",dawnbegum@bond-robertson.info,"0161 496 0378",Cardiff,"United Kingdom"
+54,"Cooper PLC","Joseph Taylor",elizabeth58@perry-bird.com,"+44(0)808 1570997",Chicago,USA
+55,"Williams Group","Miss Julia Miller",umurphy@robinson.org,01414960360,Milan,Italy
+56,Morris-Cole,"Dr Alex Scott",oliviaarnold@kerr.com,"+44909 879 0171",Milan,Italy
+57,"Walker, Brown and Connor","Mr Ian Jones",declan96@francis.net,NULL,Birmingham,"United Kingdom"
+58,"Richards and Sons","Glenn Wall",georgewilliams@carter.com,(0151)4960240,Manchester,"United Kingdom"
+59,"Duncan Inc","Eleanor Patel-Lane",NULL,"+44909 879 0693",Barcelona,Spain
+60,Walker-Wilkins,"Stanley Smith",dorothy07@davies-steele.info,"(0131) 4960946",Nottingham,"United Kingdom"
+61,"Smith, Brady and Ryan","Dr Michelle Smith",beverley44@stewart.biz,"+44(0)118 4960090",Nottingham,"United Kingdom"
+62,"Morris, Lee and Cooke","Mr Leon Roberts",heatherbates@davies-atkinson.co.uk,"+4429 2018 0210",Manchester,"United Kingdom"
+63,Pearson-Rhodes,"Ms Joanne Walker",elizabeth23@fitzgerald.net,+441614960424,Newcastle,"United Kingdom"
+64,Morgan-Harris,"Dr Kevin Jones",daleeric@wood.net,"+44(0)131 496 0160","Ho Chi Minh City",Vietnam
+65,Wilkinson-Murphy,"Tom Smith",xfuller@davies.com,0289018859,Edinburgh,"United Kingdom"
+66,"Miah Ltd","Dr Bruce Atkins",cclark@rogers.com,"0115 496 0382",Shenzhen,China
+67,Price-Davies,"Damien Harding-Burton",elizabethwaters@richards-singh.com,+441134960537,Shanghai,China
+68,Watson-Davis,"Amelia Owen",benjamin64@morgan.com,"029 2018390","Ho Chi Minh City",Vietnam
+69,"Fitzgerald and Sons","Kim Martin",katestevens@mills.org,"0113 496 0422",Prague,"Czech Republic"
+70,"Smith, Coleman and Benson","Emily Brown",joanturnbull@phillips.biz,01914960117,Shanghai,China
+71,Hobbs-Lewis,"Kimberley Heath",woodkaty@atkins.info,"0909 879 0661",Birmingham,"United Kingdom"
+72,Edwards-Williams,"Georgia Jenkins",clarkesara@grant.org,"(0191) 496 0478",Cardiff,"United Kingdom"
+73,"Sykes, James and Clark","Victor Shaw",sharonprice@ali.biz,"+44(0)141 4960156",Chicago,USA
+74,King-Patel,"Amelia Preston",greengraham@williams.com,"(0808) 157 0280",Prague,"Czech Republic"
+75,"Andrews, Moore and Davies","Miss Charlene Singh",utaylor@morgan.com,"+44131 496 0198",Manchester,"United Kingdom"
+76,"Nash Group","Michelle Dodd",geoffrey49@gough.org,"028 9018809",Chicago,USA
+77,"Burke, Phillips and Gardner","Dean Woodward-Dodd",garethsullivan@rees-cox.com,+44(0)1144960836,"Ho Chi Minh City",Vietnam
+78,Price-Fraser,"Maureen O'Donnell-Swift",youngdean@mitchell.co.uk,+441144960476,Hamburg,Germany
+79,Jenkins-Carroll,"Molly Clark",rgriffiths@wright.com,(0141)4960900,Birmingham,"United Kingdom"
+80,"Atkins and Sons","Mr Scott Harris",baileysharon@clarke.com,+441614960851,Belfast,"United Kingdom"
+81,Taylor-Thomas,"Fiona Woodward",beverley69@ellis-fletcher.com,"+44141 4960052",Shenzhen,China
+82,"Nicholls, Conway and Evans","Mrs Lesley Williams",zbarry@morris-morton.com,"+44114 4960818",Warsaw,Poland
+83,"O'Connor, Russell and Parsons","Mr Terence Webb",joe29@carter.com,"+44(0)116 496 0779",Liverpool,"United Kingdom"
+84,"Patterson, Bennett and Armstrong","Graeme Stanley",derek71@williams-stokes.com,"+4420 74960058",Barcelona,Spain
+85,"Kemp Group","Jacqueline Connolly",martin19@osullivan.com,"+44151 4960935",Rotterdam,Netherlands
+86,"Jones, Hayes and Long","Kerry Robinson",pollardkyle@smith.info,01914960892,Newcastle,"United Kingdom"
+87,Patel-Bird,"Miss Annette Anderson",gary51@davies.co.uk,"+44(0)20 74960251",Shanghai,China
+88,"Adams, Bell and Gordon","Damien Adams",marilynwalters@gordon.co.uk,"+44(0)306 9990528",Barcelona,Spain
+89,"Willis Group","Jeremy Brown",jeremy35@lucas-watkins.com,"+44114 4960418",Belfast,"United Kingdom"
+90,"Lee, Young and Thomas","Ms Hilary Patel",jeremyholden@law.biz,"+44(0)131 496 0379",Birmingham,"United Kingdom"
+91,Mitchell-Leonard,"Brenda Smith",mcooke@davies-tyler.info,"+44(0)151 4960468",Sheffield,"United Kingdom"
+92,"Fletcher, Marsden and Ryan","Brian Wong",hartchristine@mcdonald.com,NULL,Hamburg,Germany
+93,Howe-Kennedy,"Mrs Natalie Warren",richard60@knight-smith.com,+44(0)1314960305,Leicester,"United Kingdom"
+94,"Bryant Ltd","Ms Diane Thomas",ibooth@jones.com,(0118)4960328,Rotterdam,Netherlands
+95,"Jenkins, Davison and Russell","Kathleen Blake",samanthadawson@murphy.org,(0191)4960089,Prague,"Czech Republic"
+96,"Edwards LLC","Mrs Cheryl Parsons",qkay@norris.com,01914960888,Rotterdam,Netherlands
+97,"Brown, Wong and Thomas","Miss Hayley Morris",joseph53@moss.com,"+44(0)115 4960058",Milan,Italy
+98,Bradley-Jarvis,"Dr Damien Jones",barrycollins@sims-lawson.com,"+44(0)909 8790054",Mumbai,India
+99,"Matthews, Sharp and Jones","Josephine Bates",anthony54@roberts.biz,"+44(0)1632 960765",Edinburgh,"United Kingdom"
+100,"Hughes Group","Miss Patricia Wood",crawfordjeremy@harris.com,"+44121 496 0796",Leeds,"United Kingdom"
+101,"Marshall LLC","Michael Wood",jayne64@robinson.co.uk,"+44141 4960582",Liverpool,"United Kingdom"
+102,"Wilkins PLC","Gerald Howells",smithleah@evans-wells.com,"+44(0)20 74960275",Edinburgh,"United Kingdom"
+103,Williams-Hamilton,"Jasmine Owen",francesca43@payne.info,"0191 498 0681",Leeds,"United Kingdom"
+104,Russell-Campbell,"Irene Hussain",ithorpe@price.info,"+44(0)114 4960551",Cardiff,"United Kingdom"
+105,"Freeman, Ball and Barton","Owen Bennett-Todd",natasha31@james.info,"+44113 496 0589",Rotterdam,Netherlands
+106,Jones-Robinson,"Irene Young",gordoncatherine@ali.com,"+44(0)121 496 0177",London,"United Kingdom"
+107,"Weston, Clarke and Norton","Stanley Fox",annkerr@holden.com,(0121)4960225,Shanghai,China
+108,"Wilson, May and Reynolds","Hannah Smith-Woods",malcolm49@green.org,"(0116) 496 0299",Glasgow,"United Kingdom"
+109,Gray-Moore,"Mr Simon Thomas",naomi39@richards-holland.co.uk,"+44191 4960447",Rotterdam,Netherlands
+110,"Nelson Ltd","Miss Carole Ford",steeleelizabeth@hall-cook.com,+441214960556,Cardiff,"United Kingdom"
+111,"Carter PLC","Alexander Newton",cblake@dale.com,01414960963,"Ho Chi Minh City",Vietnam
+112,"Bradley PLC","Charles Barrett-Walsh",tmorley@brown-harding.net,"+44(0)151 496 0339",Rotterdam,Netherlands
+113,Parker-White,"Toby Davies",paula01@macdonald-pritchard.com,"(0306) 999 0650",Prague,"Czech Republic"
+114,Bentley-Moore,"Miss Deborah Cooper",rmiller@davies.biz,+44(0)1314960585,Manchester,"United Kingdom"
+115,"Ryan PLC","Mrs Gemma Thomas",elaine87@butler.com,+44(0)1214960952,Bristol,"United Kingdom"
+116,Scott-Cox,"Naomi Holt-Finch",twalters@sharp-chan.co.uk,"(0115) 4960694",Bristol,"United Kingdom"
+117,"Carr, Johnson and Anderson","Jill Gill-Russell",leejackson@barry.org,"+44306 999 0623",Cardiff,"United Kingdom"
+118,"Allen Ltd","Barbara Brown",samantha26@martin.info,"+44909 8790028",Nottingham,"United Kingdom"
+119,"Moore Ltd","Marcus Patel",kellywalker@kaur-davies.co.uk,+44289018497,Shanghai,China
+120,"Andrews LLC","Kieran Wilson",gerard37@jones-moore.com,"0121 4960198",Cardiff,"United Kingdom"
